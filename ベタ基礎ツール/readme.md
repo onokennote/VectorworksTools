@@ -11,19 +11,13 @@
 ## 1.多角形等を配置しkisoレコードを連結、各種設定を行う
 ![bbb](https://github.com/onokennote/VectorworksTools/assets/113188583/69833905-bd19-4d7d-88d9-27f86160bc57)
 
-## 2.ベタ基礎ツールで配置
+## 2.「ベタ基礎」マリオネットラッパーを実行で配置
+![aaa](https://github.com/onokennote/VectorworksTools/assets/113188583/5f9db20f-2724-406a-b8e4-5b08594ff212)
+
+ラッパーのオブジェクトパレットで各種設定を行ってください。
+
 ![ddd](https://github.com/onokennote/VectorworksTools/assets/113188583/ee1d7b92-1367-4607-8fa7-842c2ccd84c3)
 
-強制的に原点に移動されるので位置はどこでも構いません。
-
-図形や設定を変更後にベタ基礎図形を移動操作で再描画されます。
-
-ベタ基礎図形のオブジェクトパレットで各種設定を行ってください。（1の図形が少ないうちに設定をした方が描画が早いです）
-
-![ccc](https://github.com/onokennote/VectorworksTools/assets/113188583/064eec35-3d1f-4db4-8182-9e3446f8431b)
-
-2D時の表示もある程度は設定できます。
-
-![aaa](https://github.com/onokennote/VectorworksTools/assets/113188583/8a3e48d1-0a5c-45fe-bb23-51064c9d3a60)
+![ccc](https://github.com/onokennote/VectorworksTools/assets/113188583/6fb86366-206d-41b9-b5fb-116222532c07)
 
 断面ビューポートでの表示例
